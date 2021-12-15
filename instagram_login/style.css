@@ -1,0 +1,165 @@
+
+
+        body { 
+            background-color: #fbfbfb;
+            text-align:center;
+             }
+        .box {
+            width: 22rem;
+            height: 24rem;
+            margin:auto;
+            margin-top:30px;
+            border:0.2px solid #c2c2c2;
+            background-color: white;
+             }
+        .btn-primary {
+            position:relative;
+            margin-top:15px;
+            display: block !important;
+            width:278px;
+            margin-left:10%;
+            margin-right:10%;
+            font-size: 15px;
+            z-index: 2;
+            background-color:#0e91e3 ;
+                     }
+          
+        #InputEmail,#InputPassword {
+            font-size:12px;
+            width:278px;
+            height: 38px;
+            margin-bottom:none;
+            margin-top:-5%;
+            margin-left:10%;
+            margin-right:10%;
+            border:0.2px solid #c2c2c2;
+            border: radius 0.25em; 
+            background-color: #fbfbfb;
+            font-family:Arial, Helvetica, sans-serif!important;           
+                                   }
+        .NXVPg {
+            margin: 22px auto 12px;
+            margin-top:22px;
+            margin-right:auto;
+            margin-bottom: 12px;
+            margin-left:auto;
+               }
+        .Szr5J {
+            display: block;
+            overflow: hidden;
+            text-indent: 110%;
+            white-space: nowrap;
+               }
+        .coreSpriteLoggedOutWordmark {
+            height: 51px;
+            width:175px;
+            background-repeat: no-repeat;
+            background-image: url(instagram_logo.png);
+            background-size:440px 411px ;
+            background-position:0 -110px;
+                                     }
+
+        h1 {
+            text-align: center;
+            padding:45px;
+            margin: 22px auto 12px;
+            margin-top: 22px;
+            margin-right: auto;
+            margin-bottom: 12px;
+            margin-left: auto;
+           }
+        .footer-box {
+            width: 22rem;
+            height:4rem;
+            margin:auto;
+            margin-top: 15px;
+            border:1px solid #c2c2c2;
+            
+        }
+        .footer-box p {
+            text-align:center;
+            padding-top:15px;
+            font-size: 14px;
+        }
+        .facebook {
+            font-size:14px;
+            color:#4a4e54;
+                  }
+        .facebook:hover{
+            color:#4a4e54;
+        }
+        a {
+            text-decoration:none;
+        }
+        .buton {
+            font-weight:bold;
+            color:#15b6d6;
+            padding-left:5px;
+
+
+        }
+
+        .form-control {
+            border:1px solid gray;
+        ;
+        }
+
+        .links {
+            
+            padding:7px;
+            font-size:12px;
+            color:#8f8f8f;
+        }
+        .links-group {
+            margin:15px;
+        }
+        .links:hover {
+            color:#8f8f8f
+                     }
+        .x{
+            height: 40px;
+            line-height: 40px;
+            position: relative;
+            text-align: center;
+            color:#4a4e54;
+            font-size:12px;
+        }
+        hr{    
+            display: inline-block;
+            width: 100%;
+            position: absolute;
+            top: 50%;
+            margin-top: 3px;
+            left: 0;
+            z-index: 1;
+            
+        }
+        div.hr{    
+            display: inline-block;
+            margin: 0;
+            padding: 0;
+            background-color: #FFFFFF;
+            z-index: 1;
+            position: relative;
+            padding-left:23px;
+            padding-right:23px;
+            color:#8e8e8e;
+            
+        }
+        .language {
+            font-size:12px;
+            color:#8f8f8f;
+                  }
+        .p-forget{
+            margin-top:-10px;
+        }
+        .password-forget {
+            text-decoration: transparent;
+            font-size:12px;
+            color:#4a4e54;
+        
+        }
+        .password-forget:hover {
+            color:#4a4e54
+        }          
+
